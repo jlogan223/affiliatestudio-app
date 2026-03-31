@@ -1,0 +1,2 @@
+# affiliatestudio-app
+Personal app
